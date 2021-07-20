@@ -1,0 +1,16 @@
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\bin\Debug\net5.0\Task1a.exe
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\bin\Debug\net5.0\Task1a.deps.json
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\bin\Debug\net5.0\Task1a.runtimeconfig.json
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\bin\Debug\net5.0\Task1a.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\bin\Debug\net5.0\Task1a.dll
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\bin\Debug\net5.0\ref\Task1a.dll
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\bin\Debug\net5.0\Task1a.pdb
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\Task1a.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\Task1a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\Task1a.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\Task1a.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\Task1a.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\Task1a.dll
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\ref\Task1a.dll
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\Task1a.pdb
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\Task1a.genruntimeconfig.cache

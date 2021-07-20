@@ -1,0 +1,10 @@
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\bin\Debug\Task1b.exe.config
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\bin\Debug\Task1b.exe
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\bin\Debug\Task1b.pdb
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\obj\Debug\Task1b.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\obj\Debug\Task1b.Form1.resources
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\obj\Debug\Task1b.Properties.Resources.resources
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\obj\Debug\Task1b.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\obj\Debug\Task1b.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\obj\Debug\Task1b.exe
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\obj\Debug\Task1b.pdb
