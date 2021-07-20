@@ -8,3 +8,6 @@ C:\Users\Denis\Desktop\Study\net_fun\Task1b\obj\Debug\Task1b.csproj.GenerateReso
 C:\Users\Denis\Desktop\Study\net_fun\Task1b\obj\Debug\Task1b.csproj.CoreCompileInputs.cache
 C:\Users\Denis\Desktop\Study\net_fun\Task1b\obj\Debug\Task1b.exe
 C:\Users\Denis\Desktop\Study\net_fun\Task1b\obj\Debug\Task1b.pdb
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\bin\Debug\Task2.dll
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\bin\Debug\Task2.pdb
+C:\Users\Denis\Desktop\Study\net_fun\Task1b\obj\Debug\Task1b.csproj.CopyComplete

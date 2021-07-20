@@ -14,3 +14,6 @@ C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\Task1a.dll
 C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\ref\Task1a.dll
 C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\Task1a.pdb
 C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\Task1a.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\bin\Debug\net5.0\Task2.dll
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\bin\Debug\net5.0\Task2.pdb
+C:\Users\Denis\Desktop\Study\net_fun\Task1a\obj\Debug\net5.0\Task1a.csproj.CopyComplete

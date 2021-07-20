@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "Task1a/1.0.0": {
+        "dependencies": {
+          "Task2": "1.0.0.0"
+        },
         "runtime": {
           "Task1a.dll": {}
+        }
+      },
+      "Task2/1.0.0.0": {
+        "runtime": {
+          "Task2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -16,6 +27,11 @@
   "libraries": {
     "Task1a/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Task2/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

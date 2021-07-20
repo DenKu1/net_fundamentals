@@ -1,5 +1,7 @@
 ﻿using System;
 
+using Task2;
+
 namespace Task1a
 {
     class Program
@@ -7,7 +9,10 @@ namespace Task1a
         static void Main()
         {
             var username = Console.ReadLine();
-            Console.WriteLine($"Hello, {username}!");
+
+            var message = MessageGenerator.CreateHelloMessage(username);
+
+            Console.WriteLine(message);
         }
     }
 }

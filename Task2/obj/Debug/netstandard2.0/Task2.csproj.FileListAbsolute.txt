@@ -1,0 +1,9 @@
+C:\Users\Denis\Desktop\Study\net_fun\Task2\bin\Debug\netstandard2.0\Task2.deps.json
+C:\Users\Denis\Desktop\Study\net_fun\Task2\bin\Debug\netstandard2.0\Task2.dll
+C:\Users\Denis\Desktop\Study\net_fun\Task2\bin\Debug\netstandard2.0\Task2.pdb
+C:\Users\Denis\Desktop\Study\net_fun\Task2\obj\Debug\netstandard2.0\Task2.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Study\net_fun\Task2\obj\Debug\netstandard2.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Study\net_fun\Task2\obj\Debug\netstandard2.0\Task2.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Study\net_fun\Task2\obj\Debug\netstandard2.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Study\net_fun\Task2\obj\Debug\netstandard2.0\Task2.dll
+C:\Users\Denis\Desktop\Study\net_fun\Task2\obj\Debug\netstandard2.0\Task2.pdb
