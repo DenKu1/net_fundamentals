@@ -10,21 +10,24 @@ namespace Task1
         /// <param name="numbers">Numbers to sort.</param>
         public static void Sort(int[] numbers)
         {
-            int temp;
-            for (int i = 0; i < numbers.Length; i++)
+            if (numbers is null)
             {
-                for (int j = i; j < numbers.Length; j++)
+                throw new ArgumentNullException(nameof(numbers));
+            }
+
+            for (int i = 0; i < numbers.Length - 1; i++)
+            {
+                for (int j = 0; j < numbers.Length - i - 1; j++)
                 {
-                    if (numbers[i] < numbers[j])
+                    if (numbers[j] > numbers[j + 1])
                     {
-                        temp = numbers[i];
-                        numbers[i] = temp;
-                        numbers[j] = numbers[i];
+                        int temp = numbers[j];
+                        numbers[j] = numbers[j + 1];
+                        numbers[j + 1] = temp;
                     }
                 }
             }
         }
-
         /// <summary>
         /// Searches for the index of a product in an <paramref name="products"/> 
         /// based on a <paramref name="predicate"/>.
@@ -35,12 +38,22 @@ namespace Task1
         /// otherwise -1.</returns>
         public static int IndexOf(Product[] products, Predicate<Product> predicate)
         {
-            for (int i = 0; i < products.Length - 1; i++)
+            if (products is null)
             {
-                var product = products[i - 1];
+                throw new ArgumentNullException(nameof(products));
+            }
+
+            if (predicate is null)
+            {
+                throw new ArgumentNullException(nameof(predicate));
+            }
+
+            for (int i = 0; i < products.Length; i++)
+            {
+                var product = products[i];
                 if (predicate(product))
                 {
-                    return --i;
+                    return i;
                 }
             }
 
